@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spacrabs/static/css/main.ce9ecdca.css",
+    "main.js": "/spacrabs/static/js/main.ac3709e8.js",
+    "static/media/coverVideo.mp4": "/spacrabs/static/media/coverVideo.460f799901964f399490.mp4",
+    "static/media/crab.png": "/spacrabs/static/media/crab.36685d8ebe1be0d9a816.png",
+    "index.html": "/spacrabs/index.html",
+    "main.ce9ecdca.css.map": "/spacrabs/static/css/main.ce9ecdca.css.map",
+    "main.ac3709e8.js.map": "/spacrabs/static/js/main.ac3709e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce9ecdca.css",
+    "static/js/main.ac3709e8.js"
+  ]
+}
