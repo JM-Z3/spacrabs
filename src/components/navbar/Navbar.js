@@ -13,6 +13,7 @@ const Navbar = ({ isScrolling }) => {
       </div>
       <button className="button">Opensea!</button>
     </nav>
+    
   );
 };
 
